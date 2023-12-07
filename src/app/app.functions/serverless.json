@@ -1,9 +1,9 @@
 {
   "appFunctions": {
     "myFunc": {
-      "file": "example-function.js",
+      "file": "delay-function.js",
       "endpoint": {
-        "path": "test/appfunction",
+        "path": "delayed_response",
         "method": ["GET"]
       }
     }
