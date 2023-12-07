@@ -2,7 +2,7 @@
   "name": "App Function with Public URL",
   "description": "This is an example private app that deploys a configurable-reponse-time dummy serverless function with public URL, for rate limit testing purposes.",
   "uid": "delay_endpoint",
-  "scopes": [],
+  "scopes": ["crm.objects.companies.read"],
   "public": false,
   "extensions": {}
 }
