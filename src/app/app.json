@@ -1,0 +1,8 @@
+{
+  "name": "App Function with Public URL",
+  "description": "This is an example private app that deploys a placeholder serverless function with public URL.",
+  "uid": "test_appfunction_url",
+  "scopes": ["crm.objects.contacts.read", "crm.objects.contacts.write"],
+  "public": false,
+  "extensions": {}
+}

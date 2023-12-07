@@ -1,0 +1,11 @@
+{
+  "appFunctions": {
+    "myFunc": {
+      "file": "example-function.js",
+      "endpoint": {
+        "path": "test/appfunction",
+        "method": ["GET"]
+      }
+    }
+  }
+}
